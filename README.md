@@ -1,6 +1,6 @@
 
 # Hospital Management
-![developer](https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red)
+![developer]([https://img.shields.io/badge/Developed%20By%20%3A-Sumit%20Kumar-red](https://github.com/mazher-1992/hmss.git))
 ---
 ## screenshots
 ### Homepage
